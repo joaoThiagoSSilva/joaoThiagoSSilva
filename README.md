@@ -2,7 +2,7 @@
 
 My name is João Thiago 
 
-I am eagler to learn how to do new tasks 🦅
+I'm eagler to learn how to do new tasks 🦅
 
 Student of web development 🤓
 
