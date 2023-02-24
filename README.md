@@ -1,11 +1,12 @@
 ###  😃 Hi!
-My name is João Thiago
 
-I am eagler to learn how to do new tasks
+My name is João Thiago 
 
-Student of web development
+I am eagler to learn how to do new tasks 🦅
 
-My focus is on Front-End development right now
+Student of web development 🤓
+
+My focus is on Front-End development right now 🔥
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoThiagoSSilva&show_icons=true&theme=tokyonight"/>
@@ -17,5 +18,15 @@ My focus is on Front-End development right now
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5512991736012)
 
 
-🛠️ Technologies e Tools I use:
-
+### 🛠️ Technologies e Tools I use:
+<div>
+ <img align="center" alt="JT-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
+ <img align="center" alt="JT-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+ <img align="center" alt="JT-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+ <img align="center" alt="JT-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+ <img align="center" alt="JT-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+ <img align="center" alt="JT-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+ <img align="center" alt="JT-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+ <img align="center" alt="JT-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+ https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css
+</div>
