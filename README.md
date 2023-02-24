@@ -1,9 +1,11 @@
-###  Hi!
-Eu sou João Thiago
+###  😃 Hi!
+My name is João Thiago
 
-Estudante de desenvolvimento web
+I am eagler to learn how to do new tasks
 
-Meu foco atualmente esta em Front End
+Student of web development
+
+My focus is on Front-End development right now
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoThiagoSSilva&show_icons=true&theme=tokyonight"/>
