@@ -1,16 +1,16 @@
-### Hi there 👋
+###  Hi!
+Eu sou João Thiago
 
-<!--
-**joaoThiagoSSilva/joaoThiagoSSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Criadora de Conteúdo + Desenvolvedora
 
-Here are some ideas to get you started:
+Meu foco atualmente esta em Front End
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoThiagoSSilva&show_icons=true&theme=tokyonight"/>
+</div>
+ 
+❤️ Let's get connected:
+LinkedIn Instagram
+
+🛠️ Technologies e Tools I use:
+JoaoThiago-html JoaoThiago-css JoaoThiago-wp JoaoThiago-js
