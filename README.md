@@ -1,7 +1,7 @@
 ###  Hi!
 Eu sou João Thiago
 
-Criadora de Conteúdo + Desenvolvedora
+Estudante de desenvolvimento web
 
 Meu foco atualmente esta em Front End
 
@@ -12,6 +12,8 @@ Meu foco atualmente esta em Front End
  
 ### ❤️ Let's get connected:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-thiago-souza-silva/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5512991736012)
+
 
 🛠️ Technologies e Tools I use:
 
